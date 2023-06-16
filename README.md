@@ -5,35 +5,22 @@ This repository contains a quantity demand forecasting model built using the Pro
 
 
 
-Table of Contents
+## **Table of Contents**
 
 
 
 
 Introduction
-
-
-
 
 Features
 
 Installation
 
-Usage
-
 Dataset
 
-Model Training
-
-Model Evaluation
-
-Contributing
-
-License
 
 
-
-Introduction
+### Introduction
 
 
 
@@ -45,7 +32,7 @@ This model utilizes the Prophet library, an open-source time series forecasting 
 
 
 
-Features
+### Features
 
 
 
@@ -58,7 +45,7 @@ Straightforward API for training and evaluation.
 
 
 
-Installation
+#### Installation
 
 
 
@@ -72,13 +59,10 @@ bash
 git clone [https://github.com/your-username/quantity-demand-forecasting.git](https://github.com/mussiehaile/Quantity-Demanad-Forcasting-.git)
 Navigate to the project directory:
 
-bash 
-
-cd quantity-demand-forecasting
-Install the required dependencies using pip:
 
 
-Dataset
+
+### Dataset
 
 
-The dataset used for training and evaluation should be in a CSV format.
+The dataset used for training and evaluation should be in a .XLSX format.
